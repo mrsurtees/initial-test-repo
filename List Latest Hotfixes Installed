@@ -1,5 +1,4 @@
 New-Item -Path "c:\temp"
-
 $customfield = "Custom"+$ENV:UDF_6
 $delFile = "C:\temp\export.csv" 
 del $delFile
